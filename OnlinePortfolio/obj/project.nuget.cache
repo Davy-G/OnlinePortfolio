@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kcfeYje+xrkbzi8DE19XrTA2VZve8E70Wdp8C7/iR5yyysnor5DYEzExWT5K+DpMm5Pe08mthZLVOpUjew4g5w==",
+  "dgSpecHash": "B/qmLP53kaEVGXzxh4gO+yi+S2HvXKgNxRE1QKg/C/qncL1PacgkTIN1Hz60SlShFgydC2iTUC4YvJqnj/Os+w==",
   "success": true,
   "projectFilePath": "C:\\Users\\dgogo\\OneDrive\\Documents\\Programming\\C# NEW\\OnlinePortfolio\\OnlinePortfolio\\OnlinePortfolio.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dgogo\\.nuget\\packages\\jquery\\1.6.3\\jquery.1.6.3.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.1\\microsoft.aspnetcore.authorization.8.0.1.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.1\\microsoft.aspnetcore.components.8.0.1.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.1\\microsoft.aspnetcore.components.analyzers.8.0.1.nupkg.sha512",
@@ -33,6 +34,7 @@
     "C:\\Users\\dgogo\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\dgogo\\.nuget\\packages\\toastr\\2.1.1\\toastr.2.1.1.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.1.nupkg.sha512"
   ],
   "logs": []

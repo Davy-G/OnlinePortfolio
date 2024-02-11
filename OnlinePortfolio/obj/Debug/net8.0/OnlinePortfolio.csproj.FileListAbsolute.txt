@@ -1029,3 +1029,4 @@ C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortf
 C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortfolio\obj\Debug\net8.0\refint\OnlinePortfolio.dll
 C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortfolio\obj\Debug\net8.0\OnlinePortfolio.pdb
 C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortfolio\obj\Debug\net8.0\ref\OnlinePortfolio.dll
+C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortfolio\obj\Debug\net8.0\OnlinePortfolio.sourcelink.json

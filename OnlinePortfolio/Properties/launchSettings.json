@@ -19,7 +19,7 @@
       "httpPort": 80,
       "sslPort": 443,
       "inspectUri": "{wsProtocol}://{url.hostname}:{url.port}/_framework/debug/ws-proxy?browser={browserInspectUri}",
-      "applicationUrl": "http://localhost:80;https://localhost:443",
+      "applicationUrl": "http://localhost:80;https://0.0.0.0:443",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

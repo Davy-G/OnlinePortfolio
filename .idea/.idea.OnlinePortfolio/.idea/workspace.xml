@@ -11,16 +11,100 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd208980-b36a-4524-80cf-ab4262c1bdb1" name="Changes" comment="" />
+    <list default="true" id="fd208980-b36a-4524-80cf-ab4262c1bdb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OnlinePortfolio/Pages/Achievements.razor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.sourcelink.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/Animation/animation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/Cert/C/G05.1_David Gogodze_Certificate_of_Completion_d.gogodze@hotmail.com.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/Cert/Py/Coursera 6T9EXJS2CK9W.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/Cert/Py/Coursera CQ4GNH7KFMU7.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/Cert/Py/Coursera LLSGTUWGDQGM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/Cert/Py/Coursera NME4P3EAYXJL.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/Cert/Py/Coursera P72G4DZN2J5J.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/Cert/Py/Coursera WPVNYUJ6WYBW.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/Cert/Py/G08.5_David Gogodze_Certificate_of_Completion_d.gogodze@hotmail.com.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlinePortfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlinePortfolio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/Layout/MainLayout.razor" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/Layout/MainLayout.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/Layout/MainLayout.razor.css" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/Layout/MainLayout.razor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/Layout/NavMenu.razor" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/Layout/NavMenu.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/Layout/NavMenu.razor.css" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/Layout/NavMenu.razor.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/OnlinePortfolio.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/OnlinePortfolio.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/Pages/Contact.razor" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/Pages/Contact.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/Pages/Home.razor" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/Pages/Home.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/Pages/MyProjects.razor" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/Pages/MyProjects.razor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/OnlinePortfolio.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/OnlinePortfolio.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/OnlinePortfolio.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/OnlinePortfolio.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/OnlinePortfolio.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/OnlinePortfolio.staticwebassets.runtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/wwwroot/_framework/OnlinePortfolio.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/wwwroot/_framework/OnlinePortfolio.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/wwwroot/_framework/OnlinePortfolio.pdb.gz" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/wwwroot/_framework/OnlinePortfolio.pdb.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/wwwroot/_framework/OnlinePortfolio.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/wwwroot/_framework/OnlinePortfolio.wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/wwwroot/_framework/OnlinePortfolio.wasm.gz" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/wwwroot/_framework/OnlinePortfolio.wasm.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/bin/Debug/net8.0/wwwroot/_framework/blazor.boot.json.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/OnlinePortfolio.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/blazor.boot.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/compressed/4h84f9lro4.gz" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/compressed/4h84f9lro4.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/compressed/fveyapdap7.gz" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/compressed/fveyapdap7.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/compressed/yjagle2fvf.gz" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/compressed/yjagle2fvf.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/ref/OnlinePortfolio.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/ref/OnlinePortfolio.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/refint/OnlinePortfolio.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/refint/OnlinePortfolio.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/scopedcss/Layout/MainLayout.razor.rz.scp.css" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/scopedcss/Layout/MainLayout.razor.rz.scp.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/scopedcss/Layout/NavMenu.razor.rz.scp.css" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/scopedcss/Layout/NavMenu.razor.rz.scp.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/scopedcss/bundle/OnlinePortfolio.styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/scopedcss/bundle/OnlinePortfolio.styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/scopedcss/projectbundle/OnlinePortfolio.bundle.scp.css" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/scopedcss/projectbundle/OnlinePortfolio.bundle.scp.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/staticwebassets.build.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/staticwebassets.pack.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/staticwebassets.pack.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/staticwebassets/msbuild.OnlinePortfolio.Microsoft.AspNetCore.StaticWebAssets.props" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/staticwebassets/msbuild.OnlinePortfolio.Microsoft.AspNetCore.StaticWebAssets.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/tmp-webcil/OnlinePortfolio.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/tmp-webcil/OnlinePortfolio.wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/webcil/OnlinePortfolio.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/webcil/OnlinePortfolio.wasm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/OnlinePortfolio.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/OnlinePortfolio.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/OnlinePortfolio.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/OnlinePortfolio.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlinePortfolio/wwwroot/sample-data/weather.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/OnlinePortfolio/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2cBYPw2axQARvkXS1zYaAdJU7wM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,14 +112,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     ".NET Launch Settings Profile.OnlinePortfolio: watch.executor": "Run",
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -131,14 +217,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707586419954</updated>
-      <workItem from="1707586421388" duration="2403000" />
+      <workItem from="1707586421388" duration="20272000" />
+      <workItem from="1707649386362" duration="5142000" />
     </task>
+    <task id="LOCAL-00001" summary="first version">
+      <option name="closed" value="true" />
+      <created>1707589728572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707589728572</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="first version" />
+    <option name="LAST_COMMIT_MESSAGE" value="first version" />
   </component>
 </project>
