@@ -1,29 +1,50 @@
 ﻿@page "/Achievements"
-<h3>Achievements</h3>
+@using BlazorAnimate
 
-<body>
-<h1>My Certificates</h1>
-<div>
-    <br/>
-    <h2>C#</h2>
-    <br/>
-    <embed src="Cert/C/G05.1_David Gogodze_Certificate_of_Completion_d.gogodze@hotmail.com.pdf" width="500" height="500">
+
+<body >
+<div class="text-danger">
+    <h3>Achievements</h3>
+    <h1>My Certificates</h1>
 </div>
-<div>
+<br/>
+
+<!--add all images located in cert folder here using html -->
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+             <img src="cert/C/sharp.png" alt="Certificate 1" style="width:100%">
+        </div>
+        <div class="col-sm">
+            <img src="cert/Py/1.png" alt="Certificate 2" style="width:100%">
+        </div>
+        <div class="col-sm">
+            <img src="cert/Py/2.png" alt="Certificate 2" style="width:100%">
+        </div>
+        <div class="col-sm">
+            <img src="cert/Py/3.png" alt="Certificate 2" style="width:100%">
+        </div>
+        <div class="col-sm">
+            <img src="cert/Py/4.png" alt="Certificate 2" style="width:100%">
+        </div>
+    </div>
+
     <br/>
-    <h2>Python</h2>
-    <br/>
-    <embed src="Cert/Py/Coursera CQ4GNH7KFMU7.pdf" alt="Certificate 1" width="500" height="500">
-    <embed src="Cert/Py/Coursera LLSGTUWGDQGM.pdf" alt="Certificate 2" width="500" height="500">
-    <embed src="Cert/Py/Coursera NME4P3EAYXJL.pdf" alt="Certificate 3" width="500" height="500">
-    <embed src="Cert/Py/Coursera WPVNYUJ6WYBW.pdf" alt="Certificate 5" width="500" height="500">
-    <embed src="Cert/Py/Coursera 6T9EXJS2CK9W.pdf" alt="Certificate 6" width="500" height="500">
-    <embed src="Cert/Py/G08.5_David Gogodze_Certificate_of_Completion_d.gogodze@hotmail.com.pdf" alt="Certificate 7" width="500" height="500">
+    <div class="row">
+        <div class="col-sm">
+            <img src="cert/Py/5.png" alt="Certificate 2" style="width:100%">
+        </div>
+        <div class="col-sm">
+            <img src="cert/Py/6.png" alt="Certificate 2" style="width:100%">
+        </div>
+        <div class="col-sm">
+            <img src="cert/Py/7.png" alt="Certificate 2" style="width:100%">
+        </div>
+    </div>
 </div>
+
 </body>
-
-
-
 
 @code {
     

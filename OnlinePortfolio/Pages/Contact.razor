@@ -1,13 +1,19 @@
 ﻿@page "/Contact"
-<h3>Contact Me</h3>
+@using BlazorAnimate
 
-<p>
-    Email:  d@senatordavy.xyz 
-    <br/>
-    Github:  <a href="https://github.com/SenatorArmstrong228">SenatorDavy228</a>
-    <br/>
-    Linkedin:  <a href="https://www.linkedin.com/in/davit-gogodze-68992324b/">Davit Gogodze</a>
-</p>
+<div class="text-danger">
+    <Animate Animation="Animations.FlipDown">
+    <h3>Contact Me</h3>
+
+    <p>
+        Email: d@senatordavy.xyz
+        <br/>
+        Github: <a href="https://github.com/SenatorArmstrong228">SenatorDavy228</a>
+        <br/>
+        Linkedin: <a href="https://www.linkedin.com/in/davit-gogodze-68992324b/">Davit Gogodze</a>
+    </p>
+    </Animate>
+</div>
 
 @code {
 }

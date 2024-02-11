@@ -7,6 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="BlazorAnimate" Version="3.0.0" />
         <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.1"/>
         <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.1" PrivateAssets="all"/>
         <PackageReference Include="toastr" Version="2.1.1" />
@@ -15,16 +16,6 @@
     <ItemGroup>
       <Folder Include="wwwroot\Icons\" />
       <Folder Include="wwwroot\sample-data\" />
-    </ItemGroup>
-
-    <ItemGroup>
-      <None Include="wwwroot\Cert\Py\Coursera 6T9EXJS2CK9W.pdf" />
-      <None Include="wwwroot\Cert\Py\Coursera CQ4GNH7KFMU7.pdf" />
-      <None Include="wwwroot\Cert\Py\Coursera LLSGTUWGDQGM.pdf" />
-      <None Include="wwwroot\Cert\Py\Coursera NME4P3EAYXJL.pdf" />
-      <None Include="wwwroot\Cert\Py\Coursera P72G4DZN2J5J.pdf" />
-      <None Include="wwwroot\Cert\Py\Coursera WPVNYUJ6WYBW.pdf" />
-      <None Include="wwwroot\Cert\Py\G08.5_David Gogodze_Certificate_of_Completion_d.gogodze@hotmail.com.pdf" />
     </ItemGroup>
 
 </Project>

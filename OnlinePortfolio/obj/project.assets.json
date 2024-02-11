@@ -2,6 +2,26 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "BlazorAnimate/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "3.1.0",
+          "Microsoft.AspNetCore.Components.Web": "3.1.0",
+          "MinVer": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/BlazorAnimate.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/BlazorAnimate.dll": {}
+        },
+        "build": {
+          "buildTransitive/BlazorAnimate.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/BlazorAnimate.props": {}
+        }
+      },
       "jQuery/1.6.3": {
         "type": "package"
       },
@@ -436,6 +456,15 @@
         "build": {
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.props": {},
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
+        }
+      },
+      "MinVer/2.0.0": {
+        "type": "package",
+        "build": {
+          "build/_._": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/_._": {}
         }
       },
       "System.IO.Pipelines/8.0.0": {
@@ -503,6 +532,26 @@
       }
     },
     "net8.0/browser-wasm": {
+      "BlazorAnimate/3.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components": "3.1.0",
+          "Microsoft.AspNetCore.Components.Web": "3.1.0",
+          "MinVer": "2.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/BlazorAnimate.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/BlazorAnimate.dll": {}
+        },
+        "build": {
+          "buildTransitive/BlazorAnimate.props": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/BlazorAnimate.props": {}
+        }
+      },
       "jQuery/1.6.3": {
         "type": "package"
       },
@@ -939,6 +988,15 @@
           "build/Microsoft.NET.Sdk.WebAssembly.Pack.targets": {}
         }
       },
+      "MinVer/2.0.0": {
+        "type": "package",
+        "build": {
+          "build/_._": {}
+        },
+        "buildMultiTargeting": {
+          "buildMultiTargeting/_._": {}
+        }
+      },
       "System.IO.Pipelines/8.0.0": {
         "type": "package",
         "compile": {
@@ -999,6 +1057,24 @@
     }
   },
   "libraries": {
+    "BlazorAnimate/3.0.0": {
+      "sha512": "IUX/IFdEKiQ5ncZ5/iVhaZynWL2dA04lH9ieza9JhBj/jJH8f2NwM6OqdJFm7RfkFdbkIH8t2Bxd/laZS2EXWQ==",
+      "type": "package",
+      "path": "blazoranimate/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "blazoranimate.3.0.0.nupkg.sha512",
+        "blazoranimate.nuspec",
+        "build/BlazorAnimate.props",
+        "build/Microsoft.AspNetCore.StaticWebAssets.props",
+        "buildMultiTargeting/BlazorAnimate.props",
+        "buildTransitive/BlazorAnimate.props",
+        "lib/netstandard2.0/BlazorAnimate.dll",
+        "staticwebassets/aos.css",
+        "staticwebassets/blazorAnimateInterop.js"
+      ]
+    },
     "jQuery/1.6.3": {
       "sha512": "vb0p7+eRmc2evBCT9W7PCUupqWiDMi9/ofBHN99LraRzLY5jPKMeFzFYBoMgwA8TiwRoFDke5hiDDLsvae7qMg==",
       "type": "package",
@@ -1946,6 +2022,27 @@
         "tools/net8.0/System.Windows.Extensions.dll"
       ]
     },
+    "MinVer/2.0.0": {
+      "sha512": "1U1JIwD47a/m9S1LXdDm+fByP3LYR9hTeFfi1MlizScXF4e4yUpZvunEyQAovVfi4qYaUlVzIbk08OXFfz3FfQ==",
+      "type": "package",
+      "path": "minver/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/MinVer.targets",
+        "buildMultiTargeting/MinVer.targets",
+        "minver.2.0.0.nupkg.sha512",
+        "minver.nuspec",
+        "minver.png",
+        "minver/McMaster.Extensions.CommandLineUtils.dll",
+        "minver/MinVer.Lib.dll",
+        "minver/MinVer.Lib.pdb",
+        "minver/MinVer.deps.json",
+        "minver/MinVer.dll",
+        "minver/MinVer.pdb",
+        "minver/MinVer.runtimeconfig.json"
+      ]
+    },
     "System.IO.Pipelines/8.0.0": {
       "sha512": "FHNOatmUq0sqJOkTx+UF/9YK1f180cnW5FVqnQMvYUN0elp6wFzbtPSiqbo1/ru8ICp43JM1i7kKkk6GsNGHlA==",
       "type": "package",
@@ -2103,6 +2200,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "BlazorAnimate >= 3.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 8.0.1",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 8.0.1",
       "Microsoft.NET.ILLink.Tasks >= 8.0.1",
@@ -2149,6 +2247,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "BlazorAnimate": {
+            "target": "Package",
+            "version": "[3.0.0, )"
+          },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
             "version": "[8.0.1, )"

@@ -1030,3 +1030,8 @@ C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortf
 C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortfolio\obj\Debug\net8.0\OnlinePortfolio.pdb
 C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortfolio\obj\Debug\net8.0\ref\OnlinePortfolio.dll
 C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortfolio\obj\Debug\net8.0\OnlinePortfolio.sourcelink.json
+C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortfolio\bin\Debug\net8.0\wwwroot\_framework\BlazorAnimate.wasm
+C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortfolio\bin\Debug\net8.0\wwwroot\_framework\BlazorAnimate.wasm.gz
+C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortfolio\bin\Debug\net8.0\BlazorAnimate.dll
+C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortfolio\obj\Debug\net8.0\webcil\BlazorAnimate.wasm
+C:\Users\dgogo\OneDrive\Documents\Programming\C# NEW\OnlinePortfolio\OnlinePortfolio\obj\Debug\net8.0\compressed\w7hvb11u4f.gz
