@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "kcfeYje+xrkbzi8DE19XrTA2VZve8E70Wdp8C7/iR5yyysnor5DYEzExWT5K+DpMm5Pe08mthZLVOpUjew4g5w==",
+  "dgSpecHash": "0jQEx5cJoCLYcxI7Zc6Hmvxa7tn6VFJN0cmFZTERNTyLZttUr9d6IHQ9RfBdGSkfm5qHQsuBaPdtqlvuGt6gRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dgogo\\OneDrive\\Documents\\Programming\\C# NEW\\OnlinePortfolio\\OnlinePortfolio\\OnlinePortfolio.csproj",
+  "projectFilePath": "C:\\Users\\dgogo\\OneDrive\\Desktop\\OnlinePortfolio-master\\OnlinePortfolio\\OnlinePortfolio.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dgogo\\.nuget\\packages\\blazoranimate\\3.0.0\\blazoranimate.3.0.0.nupkg.sha512",
+    "C:\\Users\\dgogo\\.nuget\\packages\\jquery\\1.6.3\\jquery.1.6.3.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.1\\microsoft.aspnetcore.authorization.8.0.1.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.1\\microsoft.aspnetcore.components.8.0.1.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.1\\microsoft.aspnetcore.components.analyzers.8.0.1.nupkg.sha512",
@@ -30,10 +32,11 @@
     "C:\\Users\\dgogo\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.1\\microsoft.jsinterop.webassembly.8.0.1.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.1\\microsoft.net.sdk.webassembly.pack.8.0.1.nupkg.sha512",
+    "C:\\Users\\dgogo\\.nuget\\packages\\minver\\2.0.0\\minver.2.0.0.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
     "C:\\Users\\dgogo\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512",
-    "C:\\Users\\dgogo\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\8.0.1\\microsoft.netcore.app.runtime.mono.browser-wasm.8.0.1.nupkg.sha512"
+    "C:\\Users\\dgogo\\.nuget\\packages\\toastr\\2.1.1\\toastr.2.1.1.nupkg.sha512"
   ],
   "logs": []
 }

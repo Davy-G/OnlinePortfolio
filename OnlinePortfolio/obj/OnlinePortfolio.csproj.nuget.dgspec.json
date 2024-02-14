@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dgogo\\OneDrive\\Documents\\Programming\\C# NEW\\OnlinePortfolio\\OnlinePortfolio\\OnlinePortfolio.csproj": {}
+    "C:\\Users\\dgogo\\OneDrive\\Desktop\\OnlinePortfolio-master\\OnlinePortfolio\\OnlinePortfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dgogo\\OneDrive\\Documents\\Programming\\C# NEW\\OnlinePortfolio\\OnlinePortfolio\\OnlinePortfolio.csproj": {
+    "C:\\Users\\dgogo\\OneDrive\\Desktop\\OnlinePortfolio-master\\OnlinePortfolio\\OnlinePortfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dgogo\\OneDrive\\Documents\\Programming\\C# NEW\\OnlinePortfolio\\OnlinePortfolio\\OnlinePortfolio.csproj",
+        "projectUniqueName": "C:\\Users\\dgogo\\OneDrive\\Desktop\\OnlinePortfolio-master\\OnlinePortfolio\\OnlinePortfolio.csproj",
         "projectName": "OnlinePortfolio",
-        "projectPath": "C:\\Users\\dgogo\\OneDrive\\Documents\\Programming\\C# NEW\\OnlinePortfolio\\OnlinePortfolio\\OnlinePortfolio.csproj",
+        "projectPath": "C:\\Users\\dgogo\\OneDrive\\Desktop\\OnlinePortfolio-master\\OnlinePortfolio\\OnlinePortfolio.csproj",
         "packagesPath": "C:\\Users\\dgogo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dgogo\\OneDrive\\Documents\\Programming\\C# NEW\\OnlinePortfolio\\OnlinePortfolio\\obj\\",
+        "outputPath": "C:\\Users\\dgogo\\OneDrive\\Desktop\\OnlinePortfolio-master\\OnlinePortfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dgogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "BlazorAnimate": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[8.0.1, )"
@@ -60,6 +64,10 @@
               "target": "Package",
               "version": "[8.0.1, )",
               "autoReferenced": true
+            },
+            "toastr": {
+              "target": "Package",
+              "version": "[2.1.1, )"
             }
           },
           "imports": [
@@ -73,12 +81,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[8.0.1, 8.0.1]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
