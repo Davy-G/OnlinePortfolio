@@ -1,3 +1,0 @@
-libSystem.Native
-libSystem.IO.Compression.Native
-libSystem.Globalization.Native
