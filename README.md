@@ -1,3 +1,3 @@
-# Portfolio website v1
+# Portfolio website v2
 ## Description
-my first portfolio website (ugly)
+my first portfolio website with top notch design.
