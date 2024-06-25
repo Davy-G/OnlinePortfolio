@@ -1,0 +1,74 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+
+.page {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100vh;
+    padding:0;
+    margin:0;
+    background-color:transparent ; /*Cover use when the animation doesn't work. ex:mobile*/
+    overflow-y: auto;
+}
+
+main {
+    flex: 1;
+}
+
+
+.top-row {
+    background-color:  transparent;
+    #border-bottom: none;
+    height: 3.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.left, .right{
+    color: gray;
+    display: flex;
+    flex: 1;
+}
+
+
+.cont{
+    display: flex;
+    align-items: flex-start;
+}
+
+    .top-row ::deep a, .top-row ::deep .btn-link {
+        white-space: nowrap;
+        margin-left: 1.5rem;
+        text-decoration: none;
+    }
+
+    .top-row ::deep a:hover, .top-row ::deep .btn-link:hover {
+        text-decoration: underline;
+    }
+
+    .top-row ::deep a:first-child {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+@media (max-width: 640.98px) {
+    .top-row {
+        justify-content: space-between;
+    }
+
+    .top-row ::deep a, .top-row ::deep .btn-link {
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 641px) {
+   
+  
+
+   
+}
