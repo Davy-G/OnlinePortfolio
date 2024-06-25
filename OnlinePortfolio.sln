@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlinePortfolio", "OnlinePortfolio\OnlinePortfolio.csproj", "{96D96098-CB12-4106-910C-8C1A2589D3B5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{27696A43-61EF-4C38-BC66-54DEDBC377CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlinePortfolio", "src\OnlinePortfolio\OnlinePortfolio.csproj", "{5FDDBCCF-3217-44B5-9F44-3163EF2DE952}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +10,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{96D96098-CB12-4106-910C-8C1A2589D3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96D96098-CB12-4106-910C-8C1A2589D3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96D96098-CB12-4106-910C-8C1A2589D3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96D96098-CB12-4106-910C-8C1A2589D3B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FDDBCCF-3217-44B5-9F44-3163EF2DE952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDDBCCF-3217-44B5-9F44-3163EF2DE952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDDBCCF-3217-44B5-9F44-3163EF2DE952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDDBCCF-3217-44B5-9F44-3163EF2DE952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5FDDBCCF-3217-44B5-9F44-3163EF2DE952} = {27696A43-61EF-4C38-BC66-54DEDBC377CE}
 	EndGlobalSection
 EndGlobal
