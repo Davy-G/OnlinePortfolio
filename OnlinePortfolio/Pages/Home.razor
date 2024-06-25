@@ -1,26 +1,60 @@
 ﻿@page "/"
 @using BlazorAnimate
+@using HomagGroup.Blazor3D.Viewers
 
 <PageTitle>Welcome</PageTitle>
-<div class="text-danger">
+<div class="">
     <Animate Animation="Animations.SlideDown" IsManual="false">
-        <h1>Welcome To My Personal Portfolio Website</h1>
-        <p>This is a website to showcase my work and experience</p>
+        <h1>Hello, I'm HexDev</h1>
+        <p>I develop full-stack web apps</p>
     </Animate>
-    <Animate Animation="Animations.SlideUp">
-        
- 
-    <h2>Who Am I?</h2>
-    <p>
-        My name is David. I'm a software developer from Georgia(country).
-        I have 3 years of experience with C# and .NET framework and 4 years
-        of developing programs and websites in Python. Throughout the years
-        I have created lots of projects using Blazor, ADO.NET, and django. I
-        also got certificates for creating these projects, for example: IT
-        specialist in Python and lots of others. I'm also a student at the
-        University of Gau, where I study computer science. I'm always looking
-        for new opportunities to learn and grow as a developer.
-    </p>
-    </Animate>
+    <div class="row justify-content-center">
+        <div class="col-6 v3d">
+            <Viewer @ref="View3D1" ViewerSettings=@settings Scene=scene />
+        </div>
+    </div>
+    @* <Animate Animation="Animations.SlideUp"> *@
+    @*      *@
+    @* *@
+    @* <h2>Who Am I?</h2> *@
+    @* <p> *@
+    @*     My name is David. I'm a software developer from Georgia(country). *@
+    @*     I have 3 years of experience with C# and .NET framework and 4 years *@
+    @*     of developing programs and websites in Python. Throughout the years *@
+    @*     I have created lots of projects using Blazor, ADO.NET, and django. I *@
+    @*     also got certificates for creating these projects, for example: IT *@
+    @*     specialist in Python and lots of others. I'm also a student at the *@
+    @*     University of Gau, where I study computer science. I'm always looking *@
+    @*     for new opportunities to learn and grow as a developer. *@
+    @* </p> *@
+    @* </Animate> *@
 
 </div>
+
+@code {
+    private Viewer View3D1 = null!;
+    private Scene scene = new Scene();
+    private Guid loadedObjectGuid = Guid.NewGuid();
+    private string msg = string.Empty;
+
+
+    private ViewerSettings settings = new ViewerSettings()
+    {
+        ContainerId = "example1",
+    };
+
+    protected override  async Task OnInitializedAsync()
+    {
+       
+        var settings = new ImportSettings
+        {
+            Format = Import3DFormats.Obj,
+            FileURL = "https://threejs.org/examples/models/obj/male02/male02.obj",
+        };
+        // Also you can get the uuid of object to be imported before its loaded completely
+        loadedObjectGuid = await View3D1.Import3DModelAsync(settings);
+        await View3D1.SetCameraPositionAsync(new Vector3(0, 100, 250), new Vector3(0, 50, 0));
+    }
+    }
+
+}
